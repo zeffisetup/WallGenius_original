@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/3D%20Characters/3DCH61.png",
+		"name": "3DCH61",
+		"collections": "3D Characters"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/3D%20Characters/3DCH60.png",
+		"name": "3DCH60",
+		"collections": "3D Characters"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Minimal/M269.png",
 		"name": "M269",
 		"collections": "Minimal"
