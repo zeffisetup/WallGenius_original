@@ -1,6 +1,24 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Anime/AN62.png",
+		"name": "AN62",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Anime/AN61.png",
+		"name": "AN61",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Anime/AN60.png",
+		"name": "AN60",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/3D%20Characters/3DCH61.png",
 		"name": "3DCH61",
 		"collections": "3D Characters"
@@ -5351,7 +5369,7 @@
 	{
 		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Animal%20%26%20Birds/AB24.png",
-		"name": "Animal & Birds 24",
+		"name": "Animal & Birds 24", 
 		"collections": "Animal & Birds"
 	},
 	{
