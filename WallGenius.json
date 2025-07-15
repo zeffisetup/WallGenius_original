@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/main/Cars%20%26%20Bikes/CB91.png",
+		"name": "CB91",
+		"collections": "Cars & Bikes"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/main/Cars%20%26%20Bikes/CB90.png",
+		"name": "CB90",
+		"collections": "Cars & Bikes"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Minimal/M270.png",
 		"name": "M270",
 		"collections": "Minimal"
