@@ -1,6 +1,24 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Minimal/M273.png",
+		"name": "M273",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Minimal/M272.png",
+		"name": "M272",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Minimal/M271.png",
+		"name": "M271",
+		"collections": "Minimal"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://raw.githubusercontent.com/zeffisetup/WallGenius_original/refs/heads/main/Animal%20%26%20Birds/AB92.png",
 		"name": "AB92",
 		"collections": "Animal & Birds"
