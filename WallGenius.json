@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Nature/N226.png",
+		"name": "N226",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Portrait/P07n.png",
 		"name": "P07",
 		"collections": "Portrait"
