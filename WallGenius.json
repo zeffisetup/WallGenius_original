@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Amoled/AM30.png",
+		"name": "AM30",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Nature/N226.png",
 		"name": "N226",
 		"collections": "Nature"
