@@ -1,6 +1,18 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Animal%20%26%20Birds/AB101.png",
+		"name": "AB101",
+		"collections": "Animal & Birds"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Animal%20%26%20Birds/AB100.png",
+		"name": "AB100",
+		"collections": "Animal & Birds"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Amoled/AM30.png",
 		"name": "AM30",
 		"collections": "Amoled"
