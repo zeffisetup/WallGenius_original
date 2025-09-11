@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Anime/AN64.png",
+		"name": "AN64",
+		"collections": "Anime"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Animal%20%26%20Birds/AB102.png",
 		"name": "AB102",
 		"collections": "Animal & Birds"
