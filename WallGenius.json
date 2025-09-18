@@ -1,6 +1,12 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Cars%20%26%20Bikes/CB92.png",
+		"name": "CB92",
+		"collections": "Cars & Bikes"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Nature/N229.png",
 		"name": "N229",
 		"collections": "Nature"
