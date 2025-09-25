@@ -1,17 +1,23 @@
 [
-		{
+	{
+	    "author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Abstract/A200.png",
+		"name": "A200",
+		"collections": "Abstract"
+	},
+	{
 		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Floral/F53.png",
 		"name": "F53",
 		"collections": "Floral"
 	},
-		{
+	{
 		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Floral/F52.png",
 		"name": "F52",
 		"collections": "Floral"
 	},
-		{
+	{
 		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Floral/F51.png",
 		"name": "F51",
