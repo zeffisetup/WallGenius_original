@@ -1,5 +1,23 @@
 [
 	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Amoled/AM33.jpg",
+		"name": "AM33",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Amoled/AM32.jpg",
+		"name": "AM32",
+		"collections": "Amoled"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Amoled/AM31.jpg",
+		"name": "AM31",
+		"collections": "Amoled"
+	},
+	{
 	    "author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Abstract/A200.png",
 		"name": "A200",
