@@ -1,6 +1,24 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Superheroes/S42.jpg",
+		"name": "S42",
+		"collections": "Superheroes"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Superheroes/S41.jpg",
+		"name": "S41",
+		"collections": "Superheroes"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Superheroes/S40.jpg",
+		"name": "S40",
+		"collections": "Superheroes"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Amoled/AM33.jpg",
 		"name": "AM33",
 		"collections": "Amoled"
