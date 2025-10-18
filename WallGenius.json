@@ -1,6 +1,24 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Nature/N232.png",
+		"name": "N232",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Nature/N231.png",
+		"name": "N231",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Nature/N230.png",
+		"name": "N230",
+		"collections": "Nature"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Animal%20%26%20Birds/AB105.jpg",
 		"name": "AB105",
 		"collections": "Animal & Birds"
