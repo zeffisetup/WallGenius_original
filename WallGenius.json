@@ -1,6 +1,24 @@
 [
 	{
 		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Portrait/P10.jpg",
+		"name": "P10",
+		"collections": "Portrait"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Portrait/P09.jpg",
+		"name": "P09",
+		"collections": "Portrait"
+	},
+	{
+		"author": "Zeffi Setups",
+		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Portrait/P09.jpg",
+		"name": "P08",
+		"collections": "Portrait"
+	},
+	{
+		"author": "Zeffi Setups",
 		"url": "https://cdn.jsdelivr.net/gh/zeffisetup/WallGenius_original/Nature/N232.png",
 		"name": "N232",
 		"collections": "Nature"
